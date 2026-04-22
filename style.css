@@ -50,8 +50,8 @@ img {
 }
 
 #header div {
-	padding: 80px 20px 0px 470px;
-	width: 290px;
+	padding: 80px 20px 0px 445px;
+	width: 315px;
 }
 
 #header p {
@@ -237,14 +237,13 @@ p.more {
 	align-items: center;
 }
 
-.instagram-icon {
-	fill: white;
+.header-icon {
 	margin-right: 4px;
 	width: 16px;
 	height: 16px;
 }
 
-.instgram-link {
+.image-link {
 	display: flex;
 	align-items: center;
 }
